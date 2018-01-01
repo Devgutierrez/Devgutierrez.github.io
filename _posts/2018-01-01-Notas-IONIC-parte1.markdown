@@ -10,8 +10,11 @@ tag: [Programacion, Blogging, Ionic]
 # IONIC
 
 ##PRIMEROS PASOS.
+
 Primero instalar GIT.
+
 Después instalar Apache Cordova.
+
 Instalar NodeJs.
  `$ sudo npm install -g cordova`
 
@@ -26,6 +29,7 @@ Cambiar la ruta a la del proyecto creado.
 
 Ahora hay que cear las plataformas.
 `$ ionic cordova platform add ios`
+
 `$ ionic cordova platform add android`
 
 
